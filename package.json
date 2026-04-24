@@ -1,0 +1,36 @@
+{
+  "name": "code-mentor-skill",
+  "version": "2.0.0",
+  "description": "Code Mentor v2 - Claude Skill para aprender Node.js/React pensando, não copiando",
+  "author": "You",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/code-mentor-skill.git"
+  },
+  "keywords": [
+    "claude",
+    "skill",
+    "nodejs",
+    "react",
+    "education",
+    "socratic-method",
+    "learning",
+    "mentoring"
+  ],
+  "scripts": {
+    "install": "bash install.sh",
+    "docs": "echo 'Ver docs/ para documentação completa'"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "skill/SKILL.md",
+    "install.sh",
+    "README.md",
+    "GETTING-STARTED.md",
+    "TROUBLESHOOTING.md",
+    "LICENSE"
+  ]
+}
